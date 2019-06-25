@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147790862850",
+    "firebase_url": "https://myaid-446fd.firebaseio.com",
+    "project_id": "myaid-446fd",
+    "storage_bucket": "myaid-446fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147790862850:android:2b906b6da87feeba",
+        "android_client_info": {
+          "package_name": "com.realdolmen.myhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147790862850-c7nnhako9u0k4hpm19a1gik2hs4n6dq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYuGU9isEG1nhBachBsbyTxA2glLo7t3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147790862850-c7nnhako9u0k4hpm19a1gik2hs4n6dq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
